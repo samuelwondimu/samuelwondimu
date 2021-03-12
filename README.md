@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelwondimu
-- 👀 I’m interested in javascript frame works(front-end)
-- 🌱 I’m currently learning react.js
+- 👀 I’m interested in front-end
+- 🌱 I’m currently working react.js
 - 📫 How to reach me wsamuelwondimu@gmail.com
 
 <!---
