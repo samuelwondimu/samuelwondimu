@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @samuelwondimu
-- 👀 I’m interested in front-end
-- 🌱 I’m currently working react.js
+- 👋 Hi, I’m samuelwondimu
 - 📫 How to reach me wsamuelwondimu@gmail.com
 
 <!---
