@@ -1,4 +1,4 @@
-- 👋 Hi, I’m samuelwondimu
+- 👋 Hi, I’m Samuel Wondimu
 - 📫 How to reach me wsamuelwondimu@gmail.com
 
 <!---
