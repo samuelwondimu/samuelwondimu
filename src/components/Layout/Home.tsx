@@ -1,4 +1,5 @@
-import { Box, Typography } from "@mui/material";
+import { Avatar, Box, CardHeader, Typography } from "@mui/material";
+import { title } from "process";
 import React from "react";
 
 export default function Home() {
@@ -6,17 +7,34 @@ export default function Home() {
     <div>
       <Box
         sx={{
-          background: "linear-gradient(to right, #00b09b, #96c93d)",
+          background: "#333",
           padding: "2rem",
           color: "white",
           textAlign: "center",
           borderRadius: "0.5rem",
         }}
       >
-        <Typography variant="h6">
+        <Typography fontWeight={"bold"}>
           Hello, I am a Front-end Developer Based in Ethiopia
         </Typography>
       </Box>
+      <CardHeader
+        action={<Avatar aria-label="recipe">R</Avatar>}
+        title="Samuel Wondimu"
+        subheader="React / Typescript / NodeJS / Express / MongoDB / GraphQL"
+      />
+
+      <Box pt={10} />
+      <Typography>About Me</Typography>
+      <Typography variant="body1" component="p">
+        I am a Front-end Developer with a passion for building web applications.
+        I have a strong background in web development and have worked in a wide
+        range of industries. I have a strong background in web development and
+        have worked in a wide range of industries. I have a strong background in
+        web development and have worked in a wide range of industries. I have a
+        strong background in web development and have worked in a wide range of
+        industries.
+      </Typography>
     </div>
   );
 }

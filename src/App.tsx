@@ -9,7 +9,7 @@ export default function App() {
   return (
     <>
       <CssBaseline />
-      <Container>
+      <Container sx={{ width: 600 }}>
         <Routes>
           <Route element={<Navbar />}>
             <Route path="/" element={<Home />} />
