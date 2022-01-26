@@ -1,7 +1,9 @@
 import { createContext, FC, useContext, useMemo, useState } from "react";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 
-const DynamicTheme = createContext({ toggleColorMode: () => {} });
+const DynamicTheme = createContext({
+  toggleColorMode: () => {},
+});
 
 export const ThemeContext: FC = ({ children }) => {
   const [mode, setMode] = useState<"light" | "dark">("dark");
