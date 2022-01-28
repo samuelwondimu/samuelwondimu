@@ -10,7 +10,7 @@
 ## A bit about me :)
 
 ```javascript
-const Maky = {
+const samuel = {
   code: [TypeScript, Javascript, NodeJS],
   tools: [ReactJS, ReactNative, TypeScript, Firebase, Material-UI, Redux, React-Query],
   os: ["UBUNTU"],
